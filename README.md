@@ -3,4 +3,4 @@ This work is based on [this paper](https://arxiv.org/abs/1509.06461). Double Dee
 
 ## Description
 
-The max operator in standard DQN uses the same values both to select and to evaluate an action.
+The max operator in standard DQN uses the same values both to select and to evaluate an action. This makes it more likely to select overestimated values, resulting in overoptimistic value estimates.
