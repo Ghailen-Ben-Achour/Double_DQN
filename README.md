@@ -9,3 +9,6 @@ prevent this, we can decouple the selection from the evaluation. This is the ide
 
 ## Usage
 To train the network on ```Pong``` gym environment run the following command:
+```bash
+python atari.py
+```
