@@ -12,3 +12,4 @@ To train the network on ```Pong``` gym environment run the following command:
 ```bash
 python atari.py
 ```
+All results will be stored within ```checkpoint_dir```.
