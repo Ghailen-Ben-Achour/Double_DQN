@@ -8,3 +8,4 @@ prevent this, we can decouple the selection from the evaluation. This is the ide
 ![Project Image](images/ddqn.png)
 
 ## Usage
+To train the network on ```Pong``` gym environment run the following command:
